@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=3NTXFUxcKPc&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkz
 ## Get Popular on Github
 ### How to get stars and be GitHub #1
 3/5 ★★★☆☆<br>
-You have to admit. <br><br>
+You have to admit. <br>
 It's kinda stupid, but it discusses some weird repositories that almost feel artistic.<br>
 I'm also interested in using github for unconventional purpose (like this repo), so perhaps I can get inspiration.
 <br><br>
@@ -39,7 +39,7 @@ https://hackernoon.com/how-to-get-stars-and-be-github-1-5df4204a8cad
 # IOS
 ## C++ Bridging
 4/5 ★★★★☆<br>
-This is the best article I could find on this subject.
+This is the best article I could find on this subject.<br>
 It discusses different approaches such as use of PIMPL idioms and compares them.
 <br><br>
 http://philjordan.eu/article/mixing-objective-c-c++-and-objective-c++
