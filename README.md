@@ -33,6 +33,7 @@ https://hackernoon.com/how-to-get-stars-and-be-github-1-5df4204a8cad
 
 ## Git Flow
 ### Introducing Git Flow
+![68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f35333330392f30363134303132312d613062362d343237662d633134392d3638353863313439373338652e706e67](https://user-images.githubusercontent.com/14835424/48681092-9e418e00-ebe3-11e8-9b19-1bc4e33f3035.png)
 https://datasift.github.io/gitflow/IntroducingGitFlow.html
 
 # C++
