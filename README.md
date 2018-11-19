@@ -31,6 +31,10 @@ I'm also interested in using github for unconventional purpose (like this repo),
 <br><br>
 https://hackernoon.com/how-to-get-stars-and-be-github-1-5df4204a8cad
 
+## Git Flow
+### Introducing Git Flow
+https://datasift.github.io/gitflow/IntroducingGitFlow.html
+
 # C++
 
 # Creative Coding
