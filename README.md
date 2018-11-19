@@ -60,3 +60,6 @@ https://medium.com/capital-one-tech/why-everyone-is-talking-about-isomorphic-uni
 https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d
 
 # Others
+### Devops map
+
+![68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f32323933322f39613734383036372d343631642d646231302d386239612d3765623738613630666136622e706e67](https://user-images.githubusercontent.com/14835424/48680890-6554e980-ebe2-11e8-82e8-de2042559519.png)
