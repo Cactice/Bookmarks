@@ -33,6 +33,9 @@ https://hackernoon.com/how-to-get-stars-and-be-github-1-5df4204a8cad
 
 ## Git Flow
 ### Introducing Git Flow
+4/5 ★★★★☆<br>
+A standard for git branches.<br>
+This might be most important when using CI/CD.
 ![68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f35333330392f30363134303132312d613062362d343237662d633134392d3638353863313439373338652e706e67](https://user-images.githubusercontent.com/14835424/48681092-9e418e00-ebe3-11e8-9b19-1bc4e33f3035.png)
 https://datasift.github.io/gitflow/IntroducingGitFlow.html
 
@@ -56,6 +59,12 @@ http://philjordan.eu/article/mixing-objective-c-c++-and-objective-c++
 https://medium.com/capital-one-tech/why-everyone-is-talking-about-isomorphic-universal-javascript-and-why-it-matters-38c07c87905
 
 # NodeJS
+
+### REST to my wife
+5/5 ★★★★★<br>
+Interesting creative approache to explaining REST!
+Highly recommended.
+http://web.archive.org/web/20130116005443/http://tomayko.com/writings/rest-to-my-wife
 
 # Python
 
