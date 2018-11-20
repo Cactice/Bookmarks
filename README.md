@@ -66,6 +66,8 @@ Interesting creative approache to explaining REST!
 Highly recommended.
 http://web.archive.org/web/20130116005443/http://tomayko.com/writings/rest-to-my-wife
 
+# Arduino/AVR
+
 # Python
 
 # Security
