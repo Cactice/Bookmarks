@@ -47,7 +47,7 @@ https://datasift.github.io/gitflow/IntroducingGitFlow.html
 ## C++ Bridging
 4/5 ★★★★☆<br>
 This is the best article I could find on this subject.<br>
-It discusses different approaches such as use of PIMPL idioms and compares them.
+It discusses different approaches such as the use of PIMPL idioms and compares them.
 <br><br>
 http://philjordan.eu/article/mixing-objective-c-c++-and-objective-c++
 
