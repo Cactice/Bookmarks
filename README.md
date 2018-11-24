@@ -18,7 +18,7 @@ https://uxknowledgebase.com/ui-animation-part-1-6ae41b5537a0
 Insanely Good Stuff!
 Very well edited, and written youtube video that discusses basic reverse binary tools.<br>
 This man seems very knowledgeable in addtion to having great talking skill.<br>
-Easy to consume but also edifying. I'll watch more of his stuff!!
+Easy to consume but also educational. I'll watch more of his stuff!!
 ### Simple Tools and Techniques for reversing binary
 https://www.youtube.com/watch?v=3NTXFUxcKPc&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN&index=7
 
