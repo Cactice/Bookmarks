@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=3NTXFUxcKPc&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkz
 ## Get Popular on Github
 ### How to get stars and be GitHub #1
 3/5 ★★★☆☆<br>
-It's kinda stupid, but it discusses some weird repositories that almost feel artistic.<br>
+It discusses some weird repositories that almost feel artistic.<br>
 I'm also interested in using github for unconventional purpose (like this repo), so perhaps I can get inspiration.
 <br><br>
 https://hackernoon.com/how-to-get-stars-and-be-github-1-5df4204a8cad
