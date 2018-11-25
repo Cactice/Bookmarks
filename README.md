@@ -87,3 +87,8 @@ I wish there were the equivalent for ML, Mobile app developement, and Hardware s
 ![68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f32323933322f39613734383036372d343631642d646231302d386239612d3765623738613630666136622e706e67](https://user-images.githubusercontent.com/14835424/48680890-6554e980-ebe2-11e8-82e8-de2042559519.png)
 
 https://github.com/kamranahmedse/developer-roadmap
+
+### Hip Hop Remixes Science
+5/5 ★★★★★<br>
+It's interesting to see hip hop incoorporated in education.
+https://www.youtube.com/watch?v=pfp9jr5hJy8&t=383s
