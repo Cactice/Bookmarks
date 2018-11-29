@@ -76,6 +76,8 @@ http://web.archive.org/web/20130116005443/http://tomayko.com/writings/rest-to-my
 # Security
 
 ## Node Js Security
+5/5 ★★★★★<br>
+Every web developer shold probably be familiar with this. It's too late when you notice you needed it
 https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d
 
 # Others
