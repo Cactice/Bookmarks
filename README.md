@@ -72,7 +72,8 @@ http://web.archive.org/web/20130116005443/http://tomayko.com/writings/rest-to-my
 # Arduino/AVR
 
 # Python
-
+# JS/ Web dev
+https://blog.webf.zone/front-end-javascript-interviews-in-2018-19-e17b0b10514
 # Security
 
 ## Node Js Security
