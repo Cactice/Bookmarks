@@ -72,7 +72,11 @@ http://web.archive.org/web/20130116005443/http://tomayko.com/writings/rest-to-my
 # Arduino/AVR
 
 # Python
-# JS/ Web dev
+# JS / Web dev
+### Front-end JavaScript Interviews in 2018–19
+3/5 ★★★☆☆<br>
+Questions that could be asked at an javascript front-end interview.
+Tricky and difficult
 https://blog.webf.zone/front-end-javascript-interviews-in-2018-19-e17b0b10514
 # Security
 
