@@ -81,7 +81,7 @@ https://blog.webf.zone/front-end-javascript-interviews-in-2018-19-e17b0b10514
 # Security
 ### Serious Security: How to store your users’ passwords safely
 5/5 ★★★★★<br>
-Very well explained with no code.
+Very well explained with no code.<br>
 ![hmac-500](https://user-images.githubusercontent.com/14835424/49488240-1ddc8780-f889-11e8-9bbd-dcabfadd0b88.png)
 https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/
 
