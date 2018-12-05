@@ -79,10 +79,14 @@ Questions that could be asked at an javascript front-end interview.
 tricky and difficult but no answer.<br>
 https://blog.webf.zone/front-end-javascript-interviews-in-2018-19-e17b0b10514
 # Security
+### Serious Security: How to store your users’ passwords safely
+5/5 ★★★★★<br>
+Very well explained with no code.
+https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/
 
 ## Node Js Security
 5/5 ★★★★★<br>
-Every web developer shold probably be familiar with this. It's too late when you notice you needed it
+It's too late if you get attacked. Simple list of security practices that could easily be applied.
 https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d
 
 # Others
