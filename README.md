@@ -1,6 +1,13 @@
 # Bookmarks
 Memo articles I should read and I'll summarize them if I read them.
 
+# Algorithms
+3/5 ★★★☆☆<br>
+One of the most frequently cited books in Algorithm.<br>
+It's difficult<br>
+This is a PDF<br>
+http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf
+
 # UI/UX
 ## UX KnowledgeBase
 https://uxknowledgebase.com/ <br>
