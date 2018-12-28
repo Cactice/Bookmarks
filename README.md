@@ -67,6 +67,9 @@ http://philjordan.eu/article/mixing-objective-c-c++-and-objective-c++
 
 
 # React Native
+5/5 ★★★★★<br>
+https://hackernoon.com/understanding-react-native-bridge-concept-e9526066ddb8
+Awesome article to understand what is going on in react native under the hood
 
 # React
 ## Isomorphic Developement
