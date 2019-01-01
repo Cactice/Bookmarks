@@ -57,6 +57,7 @@ https://www.khronos.org/files/opengles3-quick-reference-card.pdf<br>
 
 ## glTF
 5/5 ★★★★★<br>
+Basic specification of GLTF
 <img width="1087" alt="screen shot 2018-12-15 at 4 10 19 pm" src="https://github.com/KhronosGroup/glTF/blob/master/specification/2.0/figures/gltfOverview-2.0.0a.png">
 https://github.com/KhronosGroup/glTF/blob/master/specification/2.0/figures/gltfOverview-2.0.0a.png
 
