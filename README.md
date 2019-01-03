@@ -111,6 +111,11 @@ https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-u
 It's too late if you get attacked. Simple list of security practices that could easily be applied.
 https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d
 
+# Digital
+## Basic Digital Circuit
+5/5 ★★★★★<br>
+I simply love the aesthetic of this page
+http://isweb.redwoods.edu/instruct/calderwoodd/diglogic/and.htm
 # Others
 ### Devops map
 5/5 ★★★★★<br>
