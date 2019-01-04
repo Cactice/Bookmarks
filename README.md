@@ -73,9 +73,15 @@ http://philjordan.eu/article/mixing-objective-c-c++-and-objective-c++
 
 
 # React Native
+### Understanding React Native
 5/5 ★★★★★<br>
 https://hackernoon.com/understanding-react-native-bridge-concept-e9526066ddb8
 Awesome article to understand what is going on in react native under the hood
+
+### Appiconizer
+5/5 ★★★★★<br>
+<img width="1087" alt="app Iconizer" src = "https://appiconizer.com/img/app-icon-grid.png">
+https://appiconizer.com/
 
 # React
 ## Isomorphic Developement
