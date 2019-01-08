@@ -100,6 +100,11 @@ http://web.archive.org/web/20130116005443/http://tomayko.com/writings/rest-to-my
 
 # Python
 # JS / Web dev
+### Client-side web scraping with JavaScript using jQuery and Regex
+4/5 ★★★★☆<br>
+Good article on how to work aound cors
+https://medium.freecodecamp.org/client-side-web-scraping-with-javascript-using-jquery-and-regex-5b57a271cb86
+
 ### Front-end JavaScript Interviews in 2018–19
 3/5 ★★★☆☆<br>
 Questions that could be asked at an javascript front-end interview.
