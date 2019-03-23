@@ -137,7 +137,8 @@ I wish there were the equivalent for ML, Mobile app developement, and Hardware s
 
 https://github.com/kamranahmedse/developer-roadmap
 
-### Hip Hop Remixes Science
+
+### Product Hunt
 5/5 ★★★★★<br>
-It's interesting to see hip hop incoorporated in education.
-https://www.youtube.com/watch?v=pfp9jr5hJy8&t=383s
+Best place to find inspirations(and ensure your ideas don't exist)!
+https://www.producthunt.com/
